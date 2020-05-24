@@ -1,0 +1,37 @@
+# Site settings
+title: Navneet Juvatkar
+emailID: Navneet.juvatkar@gmail.com
+name: Navneet Juvatkar
+
+#User specific content
+#Links that will appear in the navbar
+primarylinks:
+ - title: GitHub
+   url: https://nav174817.github.io/testcv/
+ - title: LinkedIn
+   url: https://www.linkedin.com/in/navneet-juvatkar/
+
+#Any buzzword skills you want to include
+skills:
+ - AWS CloudFormation
+ - Kubernetes
+ - Azure PAAS
+ - O363
+
+#Work experience is required
+roles:
+ - title: AVP
+   start: September 2019
+   end: Ongoing
+   employer: Bank of Singapore
+   description: Job Role
+
+#Education is required
+education:
+ - level: Bachelor of Engineering (B.E.)
+   date: 2003
+   University: Mumbai University
+
+#An additional info freetext section is optional at the bottom of the page - can be text or HTML
+additionalinfo: |
+   <strong>Profile</strong>: I am experienced in a variety of Cloud Infra.
